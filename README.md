@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mosaami
-- 👀 I’m interested in Web development, Mobile app development.
+- 👀 I’m interested in data science.
 - 🌱 I’m currently learning a lot of things to improve my skills.
 - 📫 How to reach me? contact me on my email:- mosami.patel4466@gmail.com
 
